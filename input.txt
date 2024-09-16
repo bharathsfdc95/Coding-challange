@@ -1,0 +1,3 @@
+John      Smith          25    London  
+Alice     Johnson        30    New York
+Bob       Stone          40    Paris
